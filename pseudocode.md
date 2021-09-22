@@ -1,13 +1,18 @@
 HEADER(atom) name
+vote on 11/5
+register to vote
+
 NAVBAR(organism) to other areas of website
+-meet scratch
+-platform
+-join the team
+-donate
 
 IMAGE(atom) of scratch
 
-CONTAINER(molecule) with text talking about how he meets necessary criteria and wants to keep the peace from invaders like cardinals, tigers, and gators
-
-COLUMNS or CARDS(molecules) to show important policies
--Jobs -- no volunteers, no paid fees nevessary, paid in catnip
+COLUMNS or CARDS(molecules) to show platform
+-Jobs -- no volunteers, no paid fees necessary, paid in catnip
 -Education -- universities need funding
 -Wildlife -- animals like cardinals are out of control
 
-FOOTER 
+BUTTON to scroll to top 
