@@ -10,9 +10,11 @@ NAVBAR(organism) to other areas of website
 
 IMAGE(atom) of scratch
 
+P of basic info
+
 COLUMNS or CARDS(molecules) to show platform
 -Jobs -- no volunteers, no paid fees necessary, paid in catnip
 -Education -- universities need funding
 -Wildlife -- animals like cardinals are out of control
 
-BUTTON to scroll to top 
+FOOTER vote for scratch
